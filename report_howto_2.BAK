@@ -1,6 +1,6 @@
 <html>
-<meta http-equiv="content-type" content="text/html;charset=utf-8">
 <head>
+   <meta http-equiv="content-type" content="text/html;charset=utf-8">
    <title>レポートでチェックしてほしいこと</title>
 </head>
 <body>
@@ -54,6 +54,8 @@
 時間の単位は 時間，分，秒 ではなく，h, min, s．とくに理由がない限りは s に統一するのが基本．<p>
 反応時間が長い場合など，2 d とか 16 h とかはあり．ただし，1分20秒のつもりで 1m20s とか書くのは不可．m はそもそもメートル以外の意味では使ってはならないし，1kg20g のような書き方もありえない．時間も単なる物理量なのだから，他の物理量と同様に扱わねばならない．<p>
 
+<hr>
+&copy; Yusuke J. Okawa 2025
 
 </body>
 </html>
